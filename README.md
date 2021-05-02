@@ -19,8 +19,8 @@ App view from inside
 ![](images/inside_view_hide.png)
 
 Buttons
-![](images/optins.PNG)
+![](images/options.PNG)
 
 Buttons
-![](images/optins2.PNG)
+![](images/options2.PNG)
 
