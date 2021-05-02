@@ -8,6 +8,16 @@ App view when first started
 
 
 
+Buttons
+![](images/options.PNG)
+
+Buttons
+![](images/options2.PNG)
+
+
+
+
+
 App view from inside
 ![](images/inside_view.png)
 
@@ -17,10 +27,3 @@ App view from inside
 
 App view from inside
 ![](images/inside_view_hide.png)
-
-Buttons
-![](images/options.PNG)
-
-Buttons
-![](images/options2.PNG)
-
