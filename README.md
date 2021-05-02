@@ -12,6 +12,7 @@ Password is "123456"
 
 
 App view when first started
+
 ![](images/lock_view.png)
 
 
@@ -28,6 +29,7 @@ Buttons
 
 
 App view from inside
+
 ![](images/inside_view.png)
 
 
@@ -40,6 +42,7 @@ App view from inside
 
 
 App view from inside
+
 ![](images/inside_view_bottom.png)
 
 
@@ -53,4 +56,5 @@ App view from inside
 
 
 App view from inside
+
 ![](images/inside_view_hide.png)
